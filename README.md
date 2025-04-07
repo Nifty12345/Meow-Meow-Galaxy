@@ -1,2 +1,2 @@
-# Meow-Meow-Galaxy
+# Meow-Meow Galaxy
 Programming project | AT-03
