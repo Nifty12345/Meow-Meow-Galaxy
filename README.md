@@ -1,2 +1,2 @@
 # Meow-Meow Galaxy
-Programming project | AT-03
+Meow-Meow Galaxy - поатформер, вдохновленный известной аркадой Nyan cat. Прыгай, уворачивайся и набирай очки под ретро-небо:)
